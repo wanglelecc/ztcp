@@ -1,0 +1,14 @@
+{
+    "name": "wanglelecc/tcp",
+    "type": "project",
+    "license": "MLT",
+    "authors": [
+        {
+            "name": "wanglelecc",
+            "email": "wanglelecc@gmail.com"
+        }
+    ],
+    "require": {
+		"zphp/zphp": "dev-master"
+	}
+}
